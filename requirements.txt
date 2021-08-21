@@ -55,7 +55,6 @@ Keras==2.4.3
 kivmob==2.0
 Kivy==1.11.1
 kivy-garden.mapview==1.0.5
-kivymatplot==1.0.0
 kivymd==0.104.1
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
