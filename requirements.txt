@@ -96,7 +96,6 @@ PyAutoGUI==0.9.53
 pycparser==2.20
 pycryptodome==3.4.3
 pygame==2.0.0.dev8
-pygame-sdl2==2.1.0
 PyGetWindow==0.0.9
 Pygments==2.9.0
 pyjnius==1.2.1
